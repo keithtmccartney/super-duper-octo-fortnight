@@ -8,11 +8,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{6BFB4723-D31
 		ShoppingDB.sql = ShoppingDB.sql
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super_duper_octo_fortnight.Server", "super_duper_octo_fortnight\Server\super_duper_octo_fortnight.Server.csproj", "{7FA38A06-F0A4-4AA7-BB45-4A4583807720}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "super_duper_octo_fortnight.Server", "super_duper_octo_fortnight\Server\super_duper_octo_fortnight.Server.csproj", "{7FA38A06-F0A4-4AA7-BB45-4A4583807720}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super_duper_octo_fortnight.Client", "super_duper_octo_fortnight\Client\super_duper_octo_fortnight.Client.csproj", "{759BE1F0-2FF0-40F2-A401-6FCFC73F76B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "super_duper_octo_fortnight.Client", "super_duper_octo_fortnight\Client\super_duper_octo_fortnight.Client.csproj", "{759BE1F0-2FF0-40F2-A401-6FCFC73F76B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super_duper_octo_fortnight.Shared", "super_duper_octo_fortnight\Shared\super_duper_octo_fortnight.Shared.csproj", "{309D4D24-A81D-41A6-B3D2-2B7CD3E513F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "super_duper_octo_fortnight.Shared", "super_duper_octo_fortnight\Shared\super_duper_octo_fortnight.Shared.csproj", "{309D4D24-A81D-41A6-B3D2-2B7CD3E513F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -140,6 +140,39 @@
         }
       },
       {
+        "HashCode": -1218088939,
+        "Kind": "Components.Component",
+        "Name": "super_duper_octo_fortnight.Client.Pages.Shopping",
+        "AssemblyName": "super_duper_octo_fortnight.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Shopping"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.Shopping"
+        }
+      },
+      {
+        "HashCode": 1270037290,
+        "Kind": "Components.Component",
+        "Name": "super_duper_octo_fortnight.Client.Pages.Shopping",
+        "AssemblyName": "super_duper_octo_fortnight.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "super_duper_octo_fortnight.Client.Pages.Shopping"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.Shopping",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 904978263,
         "Kind": "Components.Component",
         "Name": "super_duper_octo_fortnight.Client.Shared.MainLayout",
@@ -11782,11 +11815,6 @@
   "RootNamespace": "super_duper_octo_fortnight.Client",
   "Documents": [
     {
-      "FilePath": "g:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super_duper_octo_fortnight\\Client\\Pages\\Shopping.cshtml",
-      "TargetPath": "Pages\\Shopping.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "g:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super_duper_octo_fortnight\\Client\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
@@ -11809,6 +11837,11 @@
     {
       "FilePath": "g:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super_duper_octo_fortnight\\Client\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "g:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super_duper_octo_fortnight\\Client\\Pages\\Shopping.razor",
+      "TargetPath": "Pages\\Shopping.razor",
       "FileKind": "component"
     },
     {

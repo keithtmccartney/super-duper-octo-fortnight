@@ -6,7 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
-using super_duper_octo_fortnight.Server.Models;
+using super_duper_octo_fortnight.Shared.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace super_duper_octo_fortnight.Server

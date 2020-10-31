@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using super_duper_octo_fortnight.Server.Models;
+using super_duper_octo_fortnight.Shared.Models;
 
 namespace super_duper_octo_fortnight.Server.Controllers
 {

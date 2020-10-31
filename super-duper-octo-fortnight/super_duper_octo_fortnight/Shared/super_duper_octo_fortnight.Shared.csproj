@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <WebStackScaffolding_DbContextTypeFullName>super_duper_octo_fortnight.Shared.Models.ShoppingDBContext</WebStackScaffolding_DbContextTypeFullName>
   </PropertyGroup>
 
   <ItemGroup>
