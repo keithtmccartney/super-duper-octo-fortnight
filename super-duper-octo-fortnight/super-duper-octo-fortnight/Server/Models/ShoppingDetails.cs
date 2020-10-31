@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace super-duper-octo-fortnight.Server.Models
+namespace super_duper_octo_fortnight.Server.Models
 {
     public partial class ShoppingDetails
     {

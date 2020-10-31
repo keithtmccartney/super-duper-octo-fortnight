@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace super-duper-octo-fortnight.Server.Models
+namespace super_duper_octo_fortnight.Server.Models
 {
     public partial class ShoppingDBContext : DbContext
     {
