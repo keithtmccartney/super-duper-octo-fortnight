@@ -9,7 +9,7 @@ Grab the article at [https://www.c-sharpcorner.com/article/lets-learn-to-make-sh
 
 ## Errors Experienced
 
-* Abc;
+* ```about:blank``` spinning on on Chrome address bar: (https://github.com/dotnet/aspnetcore/issues/24706)[https://github.com/dotnet/aspnetcore/issues/24706];
 
 ## Notes:
 
