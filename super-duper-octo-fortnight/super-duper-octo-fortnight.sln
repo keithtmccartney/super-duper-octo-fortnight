@@ -8,7 +8,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{6BFB4723-D31
 		ShoppingDB.sql = ShoppingDB.sql
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super-duper-octo-fortnight.Server", "super-duper-octo-fortnight\Server\super-duper-octo-fortnight.Server.csproj", "{7FA38A06-F0A4-4AA7-BB45-4A4583807720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super-duper-octo-fortnight.Client", "super-duper-octo-fortnight\Client\super-duper-octo-fortnight.Client.csproj", "{759BE1F0-2FF0-40F2-A401-6FCFC73F76B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super-duper-octo-fortnight.Shared", "super-duper-octo-fortnight\Shared\super-duper-octo-fortnight.Shared.csproj", "{309D4D24-A81D-41A6-B3D2-2B7CD3E513F3}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA38A06-F0A4-4AA7-BB45-4A4583807720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA38A06-F0A4-4AA7-BB45-4A4583807720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA38A06-F0A4-4AA7-BB45-4A4583807720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA38A06-F0A4-4AA7-BB45-4A4583807720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759BE1F0-2FF0-40F2-A401-6FCFC73F76B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759BE1F0-2FF0-40F2-A401-6FCFC73F76B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759BE1F0-2FF0-40F2-A401-6FCFC73F76B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759BE1F0-2FF0-40F2-A401-6FCFC73F76B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309D4D24-A81D-41A6-B3D2-2B7CD3E513F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309D4D24-A81D-41A6-B3D2-2B7CD3E513F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309D4D24-A81D-41A6-B3D2-2B7CD3E513F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309D4D24-A81D-41A6-B3D2-2B7CD3E513F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
