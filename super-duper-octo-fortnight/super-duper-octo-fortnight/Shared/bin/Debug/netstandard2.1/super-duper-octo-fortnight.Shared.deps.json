@@ -7,13 +7,13 @@
   "targets": {
     ".NETStandard,Version=v2.1": {},
     ".NETStandard,Version=v2.1/": {
-      "super-duper-octo-fortnight.Shared/1.0.0": {
+      "super_duper_octo_fortnight.Shared/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.9",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.9"
         },
         "runtime": {
-          "super-duper-octo-fortnight.Shared.dll": {}
+          "super_duper_octo_fortnight.Shared.dll": {}
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -1445,7 +1445,7 @@
     }
   },
   "libraries": {
-    "super-duper-octo-fortnight.Shared/1.0.0": {
+    "super_duper_octo_fortnight.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

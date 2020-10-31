@@ -1,6 +1,6 @@
 {
-  "name": "super-duper-octo-fortnight",
-  "short_name": "super-duper-octo-fortnight",
+  "name": "super_duper_octo_fortnight",
+  "short_name": "super_duper_octo_fortnight",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",

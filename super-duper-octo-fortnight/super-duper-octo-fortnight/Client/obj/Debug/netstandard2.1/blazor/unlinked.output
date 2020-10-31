@@ -1,4 +1,4 @@
-obj\Debug\netstandard2.1\blazor\unlinked\super-duper-octo-fortnight.Client.dll
+obj\Debug\netstandard2.1\blazor\unlinked\super_duper_octo_fortnight.Client.dll
 obj\Debug\netstandard2.1\blazor\unlinked\System.Net.Http.Json.dll
 obj\Debug\netstandard2.1\blazor\unlinked\System.Buffers.dll
 obj\Debug\netstandard2.1\blazor\unlinked\mscorlib.dll
@@ -36,7 +36,7 @@ obj\Debug\netstandard2.1\blazor\unlinked\System.ComponentModel.Annotations.dll
 obj\Debug\netstandard2.1\blazor\unlinked\System.ComponentModel.DataAnnotations.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.AspNetCore.Components.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.Extensions.Logging.Abstractions.dll
-obj\Debug\netstandard2.1\blazor\unlinked\super-duper-octo-fortnight.Shared.dll
+obj\Debug\netstandard2.1\blazor\unlinked\super_duper_octo_fortnight.Shared.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.AspNetCore.Components.WebAssembly.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.Extensions.DependencyInjection.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.Extensions.Primitives.dll
@@ -51,5 +51,5 @@ obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.Extensions.Logging.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.Extensions.Options.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.JSInterop.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.JSInterop.WebAssembly.dll
-obj\Debug\netstandard2.1\blazor\unlinked\super-duper-octo-fortnight.Client.pdb
-obj\Debug\netstandard2.1\blazor\unlinked\super-duper-octo-fortnight.Shared.pdb
+obj\Debug\netstandard2.1\blazor\unlinked\super_duper_octo_fortnight.Client.pdb
+obj\Debug\netstandard2.1\blazor\unlinked\super_duper_octo_fortnight.Shared.pdb

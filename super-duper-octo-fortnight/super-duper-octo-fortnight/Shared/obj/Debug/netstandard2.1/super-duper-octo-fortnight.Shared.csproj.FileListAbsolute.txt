@@ -1,8 +1,8 @@
-G:\git\Source\Repos\super-duper-octo-fortnight\super-duper-octo-fortnight\super-duper-octo-fortnight\Shared\bin\Debug\netstandard2.1\super-duper-octo-fortnight.Shared.deps.json
-G:\git\Source\Repos\super-duper-octo-fortnight\super-duper-octo-fortnight\super-duper-octo-fortnight\Shared\bin\Debug\netstandard2.1\super-duper-octo-fortnight.Shared.dll
-G:\git\Source\Repos\super-duper-octo-fortnight\super-duper-octo-fortnight\super-duper-octo-fortnight\Shared\bin\Debug\netstandard2.1\super-duper-octo-fortnight.Shared.pdb
-G:\git\Source\Repos\super-duper-octo-fortnight\super-duper-octo-fortnight\super-duper-octo-fortnight\Shared\obj\Debug\netstandard2.1\super-duper-octo-fortnight.Shared.AssemblyInfoInputs.cache
-G:\git\Source\Repos\super-duper-octo-fortnight\super-duper-octo-fortnight\super-duper-octo-fortnight\Shared\obj\Debug\netstandard2.1\super-duper-octo-fortnight.Shared.AssemblyInfo.cs
-G:\git\Source\Repos\super-duper-octo-fortnight\super-duper-octo-fortnight\super-duper-octo-fortnight\Shared\obj\Debug\netstandard2.1\super-duper-octo-fortnight.Shared.csproj.CoreCompileInputs.cache
-G:\git\Source\Repos\super-duper-octo-fortnight\super-duper-octo-fortnight\super-duper-octo-fortnight\Shared\obj\Debug\netstandard2.1\super-duper-octo-fortnight.Shared.dll
-G:\git\Source\Repos\super-duper-octo-fortnight\super-duper-octo-fortnight\super-duper-octo-fortnight\Shared\obj\Debug\netstandard2.1\super-duper-octo-fortnight.Shared.pdb
+G:\git\Source\Repos\super_duper_octo_fortnight\super_duper_octo_fortnight\super_duper_octo_fortnight\Shared\bin\Debug\netstandard2.1\super_duper_octo_fortnight.Shared.deps.json
+G:\git\Source\Repos\super_duper_octo_fortnight\super_duper_octo_fortnight\super_duper_octo_fortnight\Shared\bin\Debug\netstandard2.1\super_duper_octo_fortnight.Shared.dll
+G:\git\Source\Repos\super_duper_octo_fortnight\super_duper_octo_fortnight\super_duper_octo_fortnight\Shared\bin\Debug\netstandard2.1\super_duper_octo_fortnight.Shared.pdb
+G:\git\Source\Repos\super_duper_octo_fortnight\super_duper_octo_fortnight\super_duper_octo_fortnight\Shared\obj\Debug\netstandard2.1\super_duper_octo_fortnight.Shared.AssemblyInfoInputs.cache
+G:\git\Source\Repos\super_duper_octo_fortnight\super_duper_octo_fortnight\super_duper_octo_fortnight\Shared\obj\Debug\netstandard2.1\super_duper_octo_fortnight.Shared.AssemblyInfo.cs
+G:\git\Source\Repos\super_duper_octo_fortnight\super_duper_octo_fortnight\super_duper_octo_fortnight\Shared\obj\Debug\netstandard2.1\super_duper_octo_fortnight.Shared.csproj.CoreCompileInputs.cache
+G:\git\Source\Repos\super_duper_octo_fortnight\super_duper_octo_fortnight\super_duper_octo_fortnight\Shared\obj\Debug\netstandard2.1\super_duper_octo_fortnight.Shared.dll
+G:\git\Source\Repos\super_duper_octo_fortnight\super_duper_octo_fortnight\super_duper_octo_fortnight\Shared\obj\Debug\netstandard2.1\super_duper_octo_fortnight.Shared.pdb

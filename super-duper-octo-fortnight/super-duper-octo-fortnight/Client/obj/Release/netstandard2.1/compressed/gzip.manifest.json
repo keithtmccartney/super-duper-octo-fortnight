@@ -2,137 +2,137 @@
   "FilesToCompress": [
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\00_glhI9VreC3w844Ld8MQxvnQuE0c5zAWHC4_hF6iM=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ipO0C9CSctK5GB5m5WHNKt1Ow5n0k2hCFW5XzzS5rHk=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jH4NFasq1SY_yE8fAfv2LqK4ux2swK7DzWqTub3bajw=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\BkrVh15CcTW01sDRl28hdp4NgFs7dMtaWKhFVhHqOmU=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\cuZ-2XqU3MK4TklqDtJvgJ8nHkZCSpyQTWqMOQdjJXY=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\woOV7E-VatH3ivZRWEpQfqbFKNDPHtVxGqi_qnhSN7Q=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Gu01nF7_Ai7EHDlC9fIu3yn3BiUUryiIanP3rKec8LM=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CUzy9fM-IYpnBle2lBOked7g4hkWrs73bKyOejuf0bo=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\QM_IJY1wtvrdCHapgj7GwbOo8OlOSAp3Sk3U6kSRAvU=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\j9CzhKdIIBPrkre9ulDi7n-6_O3pNhhJ8s2xLqtRyNo=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7rUmVbwhRVSCNaFF0fY8tfeybXCYRDd6_qXm7h3Tr1A=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YGNh12Z-s_wP3Lo1PsTeT5IenSPKpR5G3K5gTo37HnE=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\n5ha06lYsHTWjCdWx6sjIZnZ-POMuzzTtl2n7m4DJY4=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\LJPxCK6gztNX7XHkSpPrI-AhzGMWbYtNQ5r6Xj1KrFI=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\super-duper-octo-fortnight.Client.dll",
-      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/super-duper-octo-fortnight.Client.dll.gz"
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\super_duper_octo_fortnight.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/super_duper_octo_fortnight.Client.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tfbXvMPOraVbC8MCO8vPAqpwhbMdmzLqDX4ITg9F7UQ=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\super-duper-octo-fortnight.Shared.dll",
-      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/super-duper-octo-fortnight.Shared.dll.gz"
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\super_duper_octo_fortnight.Shared.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/super_duper_octo_fortnight.Shared.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_4ABB0OkFhdRieI68sJK2i7eyiC40mi1iZ3C7dFgBfk=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bOzoO3YL9v4IISxhutuoWBGsKL5nH_yBMa1tzJ_aQRs=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4_lwLiikKWTwXCuN3iPqrcqsoLrJTzNy8S3rne4GnWM=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\AwFf4kHYbfE5Qimhr_UBoNhs_aU0ciQzTceza1DYb34=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\VcjPlqAGl88J1pfhHQN-nss4-aE8BCGnxUPRJSPIago=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xq6WYNdaiQs3C749TWonjSBbHArH59lfochGOY0K6bQ=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\cfTjcJz6kbWI9OavbZ5zamkc8EiNSHclUeyapc5tzD4=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\aqhwPBIqdc-uQ0NTUNvx2mBg_oft5mHcSQGxdPizw5g=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\VU5BzyR32nXkgKRdT_QFLq_4vQOjG-vByE8AL-o_ZJ8=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
     },
     {
@@ -157,12 +157,12 @@
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\qc_t-s03S2cVrGSFCmcMJ_u4uRIEvrtJF1akOVJ3z6Y=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     },
     {
       "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3yR5iVe1AL1G-x30CgQIloXTwrXF6yGrtNlmwfhUy1A=.hash",
-      "Source": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\service-worker-assets.js",
+      "Source": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\Release\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\service-worker-assets.js.gz"
     }
   ]

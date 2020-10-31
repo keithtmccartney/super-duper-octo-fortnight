@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shared\super-duper-octo-fortnight.Shared.csproj" />
+    <ProjectReference Include="..\Shared\super_duper_octo_fortnight.Shared.csproj" />
   </ItemGroup>
 
   <ItemGroup>

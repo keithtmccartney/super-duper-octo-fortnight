@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>super-duper-octo-fortnight.Server</RootNamespace>
+    <RootNamespace>super_duper_octo_fortnight.Server</RootNamespace>
     <AssemblyName>$(AssemblyName.Replace(' ', '_'))</AssemblyName>
   </PropertyGroup>
 
@@ -22,8 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Client\super-duper-octo-fortnight.Client.csproj" />
-    <ProjectReference Include="..\Shared\super-duper-octo-fortnight.Shared.csproj" />
+    <ProjectReference Include="..\Client\super_duper_octo_fortnight.Client.csproj" />
+    <ProjectReference Include="..\Shared\super_duper_octo_fortnight.Shared.csproj" />
   </ItemGroup>
 
 

@@ -1,4 +1,4 @@
-# super-duper-octo-fortnight
+# super_duper_octo_fortnight
 [Syed Shanu] Let's Learn To Make Shopping Cart Using ASP.NET Core Blazor Using EF And Web API
 
 Grab the article at [https://www.c-sharpcorner.com/article/lets-learn-to-make-shopping-cart-using-asp-net-core-blazor-using-ef-and-web-api/](https://www.c-sharpcorner.com/article/lets-learn-to-make-shopping-cart-using-asp-net-core-blazor-using-ef-and-web-api/)

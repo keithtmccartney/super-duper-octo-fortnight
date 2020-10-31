@@ -2183,17 +2183,17 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "super-duper-octo-fortnight.Shared/1.0.0": {
+      "super_duper_octo_fortnight.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.9"
         },
         "compile": {
-          "bin/placeholder/super-duper-octo-fortnight.Shared.dll": {}
+          "bin/placeholder/super_duper_octo_fortnight.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/super-duper-octo-fortnight.Shared.dll": {}
+          "bin/placeholder/super_duper_octo_fortnight.Shared.dll": {}
         }
       }
     }
@@ -7824,10 +7824,10 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "super-duper-octo-fortnight.Shared/1.0.0": {
+    "super_duper_octo_fortnight.Shared/1.0.0": {
       "type": "project",
-      "path": "../Shared/super-duper-octo-fortnight.Shared.csproj",
-      "msbuildProject": "../Shared/super-duper-octo-fortnight.Shared.csproj"
+      "path": "../Shared/super_duper_octo_fortnight.Shared.csproj",
+      "msbuildProject": "../Shared/super_duper_octo_fortnight.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7836,7 +7836,7 @@
       "Microsoft.AspNetCore.Components.WebAssembly.Build >= 3.2.1",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 3.2.1",
       "System.Net.Http.Json >= 3.2.1",
-      "super-duper-octo-fortnight.Shared >= 1.0.0"
+      "super_duper_octo_fortnight.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7846,11 +7846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\super-duper-octo-fortnight.Client.csproj",
-      "projectName": "super-duper-octo-fortnight.Client",
-      "projectPath": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\super-duper-octo-fortnight.Client.csproj",
+      "projectUniqueName": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\super_duper_octo_fortnight.Client.csproj",
+      "projectName": "super_duper_octo_fortnight.Client",
+      "projectPath": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\super_duper_octo_fortnight.Client.csproj",
       "packagesPath": "C:\\Users\\keith\\.nuget\\packages\\",
-      "outputPath": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Client\\obj\\",
+      "outputPath": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7869,8 +7869,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Shared\\super-duper-octo-fortnight.Shared.csproj": {
-              "projectPath": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Shared\\super-duper-octo-fortnight.Shared.csproj"
+            "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Shared\\super_duper_octo_fortnight.Shared.csproj": {
+              "projectPath": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Shared\\super_duper_octo_fortnight.Shared.csproj"
             }
           }
         }

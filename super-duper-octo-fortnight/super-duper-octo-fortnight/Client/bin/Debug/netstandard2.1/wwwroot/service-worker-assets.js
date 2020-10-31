@@ -66,7 +66,7 @@
     },
     {
       "hash": "sha256-dJO6K0enbGbfFXzEJS5DXj8zauimmgfagWqrv0fTbpQ=",
-      "url": "_framework\/_bin\/super-duper-octo-fortnight.Client.dll"
+      "url": "_framework\/_bin\/super_duper_octo_fortnight.Client.dll"
     },
     {
       "hash": "sha256-WkuXkEV\/\/B1J2kYqjuSPxgHubOHALmA548PhKTed2JE=",
@@ -218,7 +218,7 @@
     },
     {
       "hash": "sha256-\/PnLi1W6wSe+dpoAfM\/RhPeAKeVz\/ZbZWVBxPopEuNk=",
-      "url": "_framework\/_bin\/super-duper-octo-fortnight.Shared.dll"
+      "url": "_framework\/_bin\/super_duper_octo_fortnight.Shared.dll"
     },
     {
       "hash": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
@@ -278,11 +278,11 @@
     },
     {
       "hash": "sha256-JEjcMxWU\/wFwD09JaT6sxnA11dR70zqwChtR0JmsXnI=",
-      "url": "_framework\/_bin\/super-duper-octo-fortnight.Client.pdb"
+      "url": "_framework\/_bin\/super_duper_octo_fortnight.Client.pdb"
     },
     {
       "hash": "sha256-iVeqa9LX44HCVPDE+utbPPGmFzHMrAnXYqLx\/1+Ulzw=",
-      "url": "_framework\/_bin\/super-duper-octo-fortnight.Shared.pdb"
+      "url": "_framework\/_bin\/super_duper_octo_fortnight.Shared.pdb"
     },
     {
       "hash": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

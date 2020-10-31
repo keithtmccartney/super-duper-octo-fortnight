@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "wBgVIRyVQiGEnRAtjduiSOe6RQdo5yuwl3wzRWWRgdO5XoNhHT+ExVspW1C/sNGXMklb6GJYMZyF3mkYFJpJKA==",
   "success": true,
-  "projectFilePath": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\Shared\\super-duper-octo-fortnight.Shared.csproj",
+  "projectFilePath": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Shared\\super_duper_octo_fortnight.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\keith\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\keith\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
