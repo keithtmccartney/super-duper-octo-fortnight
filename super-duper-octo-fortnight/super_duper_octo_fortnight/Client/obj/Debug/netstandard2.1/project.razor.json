@@ -11782,6 +11782,11 @@
   "RootNamespace": "super_duper_octo_fortnight.Client",
   "Documents": [
     {
+      "FilePath": "g:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super_duper_octo_fortnight\\Client\\Pages\\Shopping.cshtml",
+      "TargetPath": "Pages\\Shopping.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "g:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super_duper_octo_fortnight\\Client\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
