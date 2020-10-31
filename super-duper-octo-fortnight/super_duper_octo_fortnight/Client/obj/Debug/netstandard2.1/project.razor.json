@@ -8,88 +8,134 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -591598701,
+        "HashCode": -1879842340,
         "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.Shared.NavMenu",
+        "Name": "super_duper_octo_fortnight.Client.App",
         "AssemblyName": "super_duper_octo_fortnight.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.Shared.NavMenu"
+          "Common.TypeName": "super_duper_octo_fortnight.Client.App"
         }
       },
       {
-        "HashCode": 1985444550,
+        "HashCode": -1278900252,
         "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.Shared.NavMenu",
+        "Name": "super_duper_octo_fortnight.Client.App",
         "AssemblyName": "super_duper_octo_fortnight.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "super_duper_octo_fortnight.Client.Shared.NavMenu"
+            "TagName": "super_duper_octo_fortnight.Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.Shared.NavMenu",
+          "Common.TypeName": "super_duper_octo_fortnight.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1667427437,
+        "HashCode": -1942833960,
         "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.Shared.SurveyPrompt",
+        "Name": "super_duper_octo_fortnight.Client.Pages.Counter",
         "AssemblyName": "super_duper_octo_fortnight.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.Counter"
         }
       },
       {
-        "HashCode": 1343184146,
+        "HashCode": -268169821,
         "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.Shared.SurveyPrompt",
+        "Name": "super_duper_octo_fortnight.Client.Pages.Counter",
         "AssemblyName": "super_duper_octo_fortnight.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "super_duper_octo_fortnight.Client.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "super_duper_octo_fortnight.Client.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1155645773,
+        "Kind": "Components.Component",
+        "Name": "super_duper_octo_fortnight.Client.Pages.FetchData",
+        "AssemblyName": "super_duper_octo_fortnight.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -1727076814,
+        "Kind": "Components.Component",
+        "Name": "super_duper_octo_fortnight.Client.Pages.FetchData",
+        "AssemblyName": "super_duper_octo_fortnight.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "super_duper_octo_fortnight.Client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -966049397,
+        "Kind": "Components.Component",
+        "Name": "super_duper_octo_fortnight.Client.Pages.Index",
+        "AssemblyName": "super_duper_octo_fortnight.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -903549786,
+        "Kind": "Components.Component",
+        "Name": "super_duper_octo_fortnight.Client.Pages.Index",
+        "AssemblyName": "super_duper_octo_fortnight.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "super_duper_octo_fortnight.Client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -190,134 +236,88 @@
         }
       },
       {
-        "HashCode": 1155645773,
+        "HashCode": -591598701,
         "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.Pages.FetchData",
+        "Name": "super_duper_octo_fortnight.Client.Shared.NavMenu",
         "AssemblyName": "super_duper_octo_fortnight.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.FetchData"
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -1727076814,
+        "HashCode": 1985444550,
         "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.Pages.FetchData",
+        "Name": "super_duper_octo_fortnight.Client.Shared.NavMenu",
         "AssemblyName": "super_duper_octo_fortnight.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "super_duper_octo_fortnight.Client.Pages.FetchData"
+            "TagName": "super_duper_octo_fortnight.Client.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.FetchData",
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -966049397,
+        "HashCode": -1667427437,
         "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.Pages.Index",
+        "Name": "super_duper_octo_fortnight.Client.Shared.SurveyPrompt",
         "AssemblyName": "super_duper_octo_fortnight.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.Index"
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": -903549786,
+        "HashCode": 1343184146,
         "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.Pages.Index",
+        "Name": "super_duper_octo_fortnight.Client.Shared.SurveyPrompt",
         "AssemblyName": "super_duper_octo_fortnight.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "super_duper_octo_fortnight.Client.Pages.Index"
+            "TagName": "super_duper_octo_fortnight.Client.Shared.SurveyPrompt"
           }
         ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1942833960,
-        "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.Pages.Counter",
-        "AssemblyName": "super_duper_octo_fortnight.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
+        "BoundAttributes": [
           {
-            "TagName": "Counter"
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -268169821,
-        "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.Pages.Counter",
-        "AssemblyName": "super_duper_octo_fortnight.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "super_duper_octo_fortnight.Client.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1879842340,
-        "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.App",
-        "AssemblyName": "super_duper_octo_fortnight.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.App"
-        }
-      },
-      {
-        "HashCode": -1278900252,
-        "Kind": "Components.Component",
-        "Name": "super_duper_octo_fortnight.Client.App",
-        "AssemblyName": "super_duper_octo_fortnight.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "super_duper_octo_fortnight.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "super_duper_octo_fortnight.Client.App",
+          "Common.TypeName": "super_duper_octo_fortnight.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
+using super_duper_octo_fortnight.Server.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace super_duper_octo_fortnight.Server
 {
@@ -22,7 +24,7 @@ namespace super_duper_octo_fortnight.Server
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddDbContext<ShoppingDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
             services.AddControllersWithViews();
             services.AddRazorPages();
         }
