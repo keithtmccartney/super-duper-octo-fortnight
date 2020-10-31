@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uu9IN7zsDtVXuzrofT8/ZmTN5DXThGTlUH2WmF5FgSTR1LRAgi5DKNcynmXwsoUcTnnwN1e2MYzj6VQ7/ssEtg==",
+  "dgSpecHash": "Rl5vx8Jrkn9ep/5PJYIMFK92OCONnEaBYQHfb1lncQe6A+Pp3cH12VonWrPUoFbmAQZwag3iz53tPvdEPjDtiA==",
   "success": true,
-  "projectFilePath": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Client\\super_duper_octo_fortnight.Client.csproj",
+  "projectFilePath": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super_duper_octo_fortnight\\Client\\super_duper_octo_fortnight.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\keith\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\keith\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

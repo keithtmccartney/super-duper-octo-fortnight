@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "super_duper_octo_fortnight.Client.dll": "sha256-dJO6K0enbGbfFXzEJS5DXj8zauimmgfagWqrv0fTbpQ=",
+      "super_duper_octo_fortnight.Client.dll": "sha256-Gpq7bUNAxAVCC3IIGiA0d6MIkYOujEx\/63batqdKpaI=",
       "System.Net.Http.Json.dll": "sha256-WkuXkEV\/\/B1J2kYqjuSPxgHubOHALmA548PhKTed2JE=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -44,7 +44,7 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-PBU5INASuPqDlIS0ic0TMSDwIZQ6BIM6N0S0K5FhZHE=",
-      "super_duper_octo_fortnight.Shared.dll": "sha256-\/PnLi1W6wSe+dpoAfM\/RhPeAKeVz\/ZbZWVBxPopEuNk=",
+      "super_duper_octo_fortnight.Shared.dll": "sha256-vegZmTPnbb2XIDcqQejKjBzH7fE0QzOy1HjV9T\/Xo6g=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-Vio27NdWW1HmLCdcXVEyHpx4LnRfNjOlElipIlxM\/uQ=",
       "Microsoft.Extensions.Primitives.dll": "sha256-6eWNJmObgA9g37KbjpD+lhTy18eoW5cLdTcnDGGojBU=",
@@ -61,8 +61,8 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "super_duper_octo_fortnight.Client.pdb": "sha256-JEjcMxWU\/wFwD09JaT6sxnA11dR70zqwChtR0JmsXnI=",
-      "super_duper_octo_fortnight.Shared.pdb": "sha256-iVeqa9LX44HCVPDE+utbPPGmFzHMrAnXYqLx\/1+Ulzw="
+      "super_duper_octo_fortnight.Client.pdb": "sha256-SHOq2uxNOJh6quyrrj7qKSlU+JZW8YKCf5MKkUdf1qo=",
+      "super_duper_octo_fortnight.Shared.pdb": "sha256-bUoSzIx\/rYsKwE4UQ1a58u2gKByafxo5foTl+sXsYcw="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

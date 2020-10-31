@@ -57,15 +57,15 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-yAyyLvhKcFJReWG9eVQFTrk3BzCA2ukPP7GNg9fLP2c=",
+      "hash": "sha256-xpTlipHfta1rJ6QG\/okIkkXjdGENuvbn6hJOcLsW2z8=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-gXhiEeVdbsMjX6e+51eGPayGCKZ\/In0Q1RWYlBY9yBM=",
+      "hash": "sha256-WmxvHHiISAnHDglDCUyNMY9cRyMQ+IwHHhGIk1ghPvo=",
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-dJO6K0enbGbfFXzEJS5DXj8zauimmgfagWqrv0fTbpQ=",
+      "hash": "sha256-Gpq7bUNAxAVCC3IIGiA0d6MIkYOujEx\/63batqdKpaI=",
       "url": "_framework\/_bin\/super_duper_octo_fortnight.Client.dll"
     },
     {
@@ -217,7 +217,7 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-\/PnLi1W6wSe+dpoAfM\/RhPeAKeVz\/ZbZWVBxPopEuNk=",
+      "hash": "sha256-vegZmTPnbb2XIDcqQejKjBzH7fE0QzOy1HjV9T\/Xo6g=",
       "url": "_framework\/_bin\/super_duper_octo_fortnight.Shared.dll"
     },
     {
@@ -277,11 +277,11 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-JEjcMxWU\/wFwD09JaT6sxnA11dR70zqwChtR0JmsXnI=",
+      "hash": "sha256-SHOq2uxNOJh6quyrrj7qKSlU+JZW8YKCf5MKkUdf1qo=",
       "url": "_framework\/_bin\/super_duper_octo_fortnight.Client.pdb"
     },
     {
-      "hash": "sha256-iVeqa9LX44HCVPDE+utbPPGmFzHMrAnXYqLx\/1+Ulzw=",
+      "hash": "sha256-bUoSzIx\/rYsKwE4UQ1a58u2gKByafxo5foTl+sXsYcw=",
       "url": "_framework\/_bin\/super_duper_octo_fortnight.Shared.pdb"
     },
     {
@@ -301,9 +301,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-SuVEnqCZjyiNInq0i7EmEceYGUDgD1zLiON9tbaO9Ko=",
+      "hash": "sha256-zaR58wq+0Q9pwn1WxbB48BhSEjYI+Skfh1fO0MOBSow=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "tX9G4rI8"
+  "version": "Dgdz67SR"
 };

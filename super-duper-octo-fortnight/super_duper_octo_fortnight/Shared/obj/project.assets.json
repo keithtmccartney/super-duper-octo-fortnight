@@ -6872,11 +6872,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Shared\\super_duper_octo_fortnight.Shared.csproj",
+      "projectUniqueName": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super_duper_octo_fortnight\\Shared\\super_duper_octo_fortnight.Shared.csproj",
       "projectName": "super_duper_octo_fortnight.Shared",
-      "projectPath": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Shared\\super_duper_octo_fortnight.Shared.csproj",
+      "projectPath": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super_duper_octo_fortnight\\Shared\\super_duper_octo_fortnight.Shared.csproj",
       "packagesPath": "C:\\Users\\keith\\.nuget\\packages\\",
-      "outputPath": "G:\\git\\Source\\Repos\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\super_duper_octo_fortnight\\Shared\\obj\\",
+      "outputPath": "G:\\git\\Source\\Repos\\super-duper-octo-fortnight\\super-duper-octo-fortnight\\super_duper_octo_fortnight\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
