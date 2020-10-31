@@ -9,7 +9,7 @@ Grab the article at [https://www.c-sharpcorner.com/article/lets-learn-to-make-sh
 
 ## Errors Experienced
 
-* ```about:blank``` spinning on on Chrome address bar: (https://github.com/dotnet/aspnetcore/issues/24706)[https://github.com/dotnet/aspnetcore/issues/24706];
+* ```about:blank``` spinning on on Chrome address bar: (https://github.com/dotnet/aspnetcore/issues/24706)[https://github.com/dotnet/aspnetcore/issues/24706]; work-around identified - HACK! HACK! HACK! - ("I was facing the same problem. Opening the "development tools" also solves this problem (although it shouldn't be necessary.)")[https://github.com/dotnet/aspnetcore/issues/24706#issuecomment-671034737] - Should ever happen to read this, (boukenka)[https://github.com/boukenka], a million thanks, 👍;
 
 ## Notes:
 
