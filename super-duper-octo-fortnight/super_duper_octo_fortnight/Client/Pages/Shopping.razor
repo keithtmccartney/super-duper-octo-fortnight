@@ -1,5 +1,145 @@
-﻿<h3>Shopping</h3>
+﻿@page "/Shopping"
+@using super_duper_octo_fortnight.Shared
+@using super_duper_octo_fortnight.Shared.Models
+@using Microsoft.JSInterop @*// This replaces 'Microsoft.AspNetCore.Blazor.Browser.Interop', visit https://github.com/dotnet/aspnetcore/issues/15542#issuecomment-427685587*@
+@using System.Collections.Generic
+@inject HttpClient Http
+
+@if (itemDetails == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table style="background-color: #FFFFFF; border: solid 2px #6D7B8D; padding: 5px; width: 100%; table-layout: fixed;" cellpadding="2" cellspacing="2">
+        <tr style="height: 30px; background-color: #336699; color: #FFFFFF; border: solid 1px #659EC7;">
+            <td width="40" align="center">
+                <b>Image</b>
+            </td>
+
+            <td width="40" align="center" style="border: solid 1px #FFFFFF; padding: 5px; table-layout: fixed; cursor: pointer;">
+                <b>Item Code</b>
+            </td>
+
+            <td width="120" align="center" style="border: solid 1px #FFFFFF; padding: 5px; table-layout: fixed; cursor: pointer;">
+                <b>Item Name</b>
+            </td>
+
+            <td width="120" align="center" style="border: solid 1px #FFFFFF; padding: 5px; table-layout: fixed; cursor: pointer;">
+                <b>Decription</b>
+            </td>
+
+            <td width="40" align="center" style="border: solid 1px #FFFFFF; padding: 5px; table-layout: fixed; cursor: pointer;">
+                <b>Price</b>
+            </td>
+
+            <td width="90" align="center" style="border: solid 1px #FFFFFF; padding: 5px; table-layout: fixed; cursor: pointer;">
+                <b>Username</b>
+            </td>
+        </tr>
+
+        <tr style="height: 30px; background-color: #336699; color: #FFFFFF; border: solid 1px #659EC7;">
+            <td width="40" align="center">
+                Filter By ->
+            </td>
+
+            <td style="border: solid 1px #FFFFFF; padding: 5px; table-layout: fixed;">
+                Item Name :
+            </td>
+
+            <td width="200" colspan="4" style="border: solid 1px #FFFFFF; padding: 5px; table-layout: fixed;">
+                <input width="70" onchange=@OnItemNameChanged oninput="(this.dispatchEvent(new CustomEvent('change', {bubbles: true})))" />
+            </td>
+        </tr>
+
+        <tbody>
+            @foreach (var item in itemDetails)
+            {
+                <tr>
+                    <td align="center" style="border: solid 1px #659EC7; padding: 5px; table-layout: fixed;">
+                        <span style="color: #9F000F">
+                            <img src="@item.ImageName" style="height: 56px; width: 56px" onclick="@(async () => await AddItemToShoppingCart(@item))" />
+                        </span>
+                    </td>
+
+                    <td style="border: solid 1px #659EC7; padding: 5px; table-layout: fixed;">
+                        <span style="color: #9F000F">
+                            @item.ItemId
+                        </span>
+                    </td>
+
+                    <td style="border: solid 1px #659EC7; padding: 5px; table-layout: fixed;">
+                        <span style="color: #9F000F">
+                            @item.ItemName
+                        </span>
+                    </td>
+
+                    <td style="border: solid 1px #659EC7; padding: 5px; table-layout: fixed;">
+                        <span style="color: #9F000F">
+                            @item.Description
+                        </span>
+                    </td>
+
+                    <td align="right" style="border: solid 1px #659EC7; padding: 5px; table-layout: fixed;">
+                        <span style="color: #9F000F">
+                            @item.ItemPrice
+                        </span>
+                    </td>
+
+                    <td style="border: solid 1px #659EC7; padding: 5px; table-layout: fixed;">
+                        <span style="color: #9F000F">
+                            @item.AddedBy
+                        </span>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
 
 @code {
+    @functions {
+        string user = "Keith";
+        string selectedImage = "";
+        string selectedItem = "";
+        int price = 0;
+        string message = "";
 
+        ShoppingDetails[] shoppingDetails;
+        ItemDetails[] itemDetails;
+
+        ShoppingDetails sd = new ShoppingDetails();
+
+        ItemDetails id = new ItemDetails();
+
+        Boolean addToCart = false;
+
+        protected override async Task OnInitAsync()
+        {
+            itemDetails = await Http.GetJsonAsync<ItemDetails[]>("/api/ItemDetails/");
+        }
+
+        // For Filtering by Item Name
+        void OnItemNameChanged(UIChangeEventArgs args)
+        {
+            string values = args.Value.ToString();
+
+            FilteringList(values);
+        }
+
+        // Filtering
+        protected async Task FilteringList(String value)
+        {
+            itemDetails = await Http.GetJsonAsync<ItemDetails[]>("/api/ItemDetails/");
+
+            if (value.Trim().Length > 0)
+            {
+                itemDetails = itemDetails.Where(x => x.ItemName.Contains(value)).ToArray();
+            }
+            else
+            {
+                itemDetails = await Http.GetJsonAsync<ItemDetails[]>("/api/ItemDetails/");
+            }
+        }
+    }
 }
